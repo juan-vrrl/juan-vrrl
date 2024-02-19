@@ -11,10 +11,18 @@ Welcome to my GitHub portfolio! I'm a Front End Web Developer on a journey to be
 
 ## Skills
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, Python, C++
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, Python, PHP
 - **Frameworks/Libraries:** React.js, Next.js
 
 Feel free to explore more projects on my GitHub profile!
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/juan-vrrl">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juan-vrrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juan-vrrl&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 ## Get in Touch
 
