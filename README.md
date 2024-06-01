@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I'm a Front End Web Developer on a journey to be
 
 ## Skills
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, Python, PHP
+- **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3, Python, PHP
 - **Frameworks/Libraries:** React.js, Next.js
 
 Feel free to explore more projects on my GitHub profile!
