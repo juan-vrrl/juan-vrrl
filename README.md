@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Juan Verrel Tanuwijaya
 
-Welcome to my GitHub portfolio! I'm a Front End Web Developer on a journey to become a Fullstack Web Developer. I'm passionate about creating interactive and engaging web experiences. Currently, I'm honing my skills in both frontend and backend technologies.
+Welcome to my GitHub portfolio! I'm a Fullstack Web Developer. I'm passionate about creating interactive and engaging web experiences. Currently, I'm honing my skills in both frontend and backend technologies.
 
 ## About Me
 
