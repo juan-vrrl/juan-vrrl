@@ -4,8 +4,7 @@ Welcome to my GitHub portfolio! I'm a Front End Web Developer on a journey to be
 
 ## About Me
 
-- 🌱 I'm currently learning backend technologies to become a Fullstack Web Developer.
-- 💼 Front End Web Developer with experience in JavaScript, HTML/CSS, React.js, and Next.js.
+- 💼 Fullstack Web Developer with experience in JavaScript, HTML/CSS, React.js, Next.js, and Express.js.
 - 🎓 Bachelor of Informatics Engineering (Ongoing)
 - 💻 Open to collaborations and new opportunities.
 
