@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! I'm a Front End Web Developer on a journey to be
 ## About Me
 
 - 💼 Fullstack Web Developer with experience in JavaScript, HTML/CSS, React.js, Next.js, and Express.js.
-- 🎓 Bachelor of Informatics Engineering (Ongoing)
+- 🎓 Bachelor of Informatics Engineering
 - 💻 Open to collaborations and new opportunities.
 
 ## Skills
